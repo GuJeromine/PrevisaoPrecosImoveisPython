@@ -1,4 +1,4 @@
-# previsaoprecoscasapy
+# previsaoprecoscasaspy
 Previsão com preços de casas usando modelos da biblioteca scikit-learn. 
 
 ## Projeto de Previsão de Preços
